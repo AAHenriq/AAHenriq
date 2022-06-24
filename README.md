@@ -1,4 +1,5 @@
-### Hi there 👋
+### My name is Henrique Amaral Almeida and I'm a nobody who doesn't know how to code.
+### Studying mechatronics engineering, at least until I dropout.
 
 <!--
 **AAHenriq/AAHenriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
